@@ -1,0 +1,43 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 25 Jun 2022 19:38:57 at https://rainbowit.net/html/doob/index-startup.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://rainbowit.net/html/doob/index-startup.html -O1 "C:\Users\JIBANANDA\OneDrive\Desktop\copy maal\dipak\esain" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:39:02	Warning: 	File not parsed, looks like binary: https://rainbowit.net/robots.txt
+19:42:13	Error: 	"Not Found" (404) at link https://rainbowit.net/html/doob/assets/css/fonts/lg.svg?n1z373 (from https://rainbowit.net/html/doob/assets/css/plugins/lightbox.css)
+19:42:13	Error: 	"Not Found" (404) at link https://rainbowit.net/html/doob/assets/images/icons/vimeo-play.png (from https://rainbowit.net/html/doob/assets/css/plugins/lightbox.css)
+19:42:13	Error: 	"Not Found" (404) at link https://rainbowit.net/html/doob/assets/images/icons/video-play.png (from https://rainbowit.net/html/doob/assets/css/plugins/lightbox.css)
+19:42:13	Error: 	"Not Found" (404) at link https://rainbowit.net/html/doob/assets/images/icons/youtube-play.png (from https://rainbowit.net/html/doob/assets/css/plugins/lightbox.css)
+19:42:13	Error: 	"Not Found" (404) at link https://rainbowit.net/html/doob/assets/images/bg/bg-image-16.jpg (from https://rainbowit.net/html/doob/assets/css/style.css)
+19:42:13	Error: 	"Not Found" (404) at link https://rainbowit.net/html/doob/assets/images/bg/bg-image-25.jpg (from https://rainbowit.net/html/doob/assets/css/style.css)
+19:42:13	Error: 	"Not Found" (404) at link https://rainbowit.net/html/doob/assets/images/bg/bg-image-26.jpg (from https://rainbowit.net/html/doob/assets/css/style.css)
+19:42:13	Error: 	"Not Found" (404) at link https://rainbowit.net/html/doob/assets/images/bg/bg-image-27.jpg (from https://rainbowit.net/html/doob/assets/css/style.css)
+19:42:13	Error: 	"Not Found" (404) at link https://rainbowit.net/html/doob/assets/images/bg/bg-image-28.jpg (from https://rainbowit.net/html/doob/assets/css/style.css)
+19:42:13	Error: 	"Not Found" (404) at link https://rainbowit.net/html/doob/assets/images/bg/bg-image-29.jpg (from https://rainbowit.net/html/doob/assets/css/style.css)
+19:42:13	Error: 	"Not Found" (404) at link https://rainbowit.net/html/doob/assets/images/bg/bg-image-30.jpg (from https://rainbowit.net/html/doob/assets/css/style.css)
+19:42:13	Error: 	"Not Found" (404) at link https://rainbowit.net/html/doob/assets/images/slider-bg/bg-image-3.jpg (from https://rainbowit.net/html/doob/assets/css/style.css)
+19:42:13	Error: 	"Not Found" (404) at link https://rainbowit.net/html/doob/assets/images/slider-bg/bg-image-4.jpg (from https://rainbowit.net/html/doob/assets/css/style.css)
+19:42:13	Error: 	"Not Found" (404) at link https://rainbowit.net/html/doob/assets/images/slider-bg/bg-image-5.jpg (from https://rainbowit.net/html/doob/assets/css/style.css)
+19:42:13	Error: 	"Not Found" (404) at link https://rainbowit.net/html/doob/assets/images/slider-bg/bg-image-6.jpg (from https://rainbowit.net/html/doob/assets/css/style.css)
+19:42:13	Error: 	"Not Found" (404) at link https://rainbowit.net/html/doob/assets/images/slider-bg/bg-image-13.jpg (from https://rainbowit.net/html/doob/assets/css/style.css)
+19:42:13	Error: 	"Not Found" (404) at link https://rainbowit.net/html/doob/assets/images/slider-bg/bg-image-14.jpg (from https://rainbowit.net/html/doob/assets/css/style.css)
+19:42:13	Error: 	"Not Found" (404) at link https://rainbowit.net/html/doob/assets/images/slider-bg/bg-image-15.jpg (from https://rainbowit.net/html/doob/assets/css/style.css)
+19:42:13	Error: 	"Not Found" (404) at link https://rainbowit.net/html/doob/assets/images/slider-bg/bg-image-16.jpg (from https://rainbowit.net/html/doob/assets/css/style.css)
+19:42:13	Error: 	"Not Found" (404) at link https://rainbowit.net/html/doob/business-consulting-2.html (from https://rainbowit.net/html/doob/index-business-consulting-2.html)
+19:42:13	Error: 	"Not Found" (404) at link https://rainbowit.net/html/doob/category/development.html (from https://rainbowit.net/html/doob/index-magazine.html)
+19:42:13	Error: 	"Not Found" (404) at link https://rainbowit.net/html/doob/category/company.html (from https://rainbowit.net/html/doob/index-magazine.html)
+19:42:13	Error: 	"Not Found" (404) at link https://rainbowit.net/html/doob/category/marketing.html (from https://rainbowit.net/html/doob/index-magazine.html)
+19:42:13	Error: 	"Not Found" (404) at link https://rainbowit.net/html/doob/category/ux-design.html (from https://rainbowit.net/html/doob/index-magazine.html)
+19:42:13	Error: 	"Not Found" (404) at link https://rainbowit.net/html/doob/category/business.html (from https://rainbowit.net/html/doob/index-magazine.html)
+19:42:13	Error: 	"Not Found" (404) at link https://rainbowit.net/html/doob/category/app-development.html (from https://rainbowit.net/html/doob/index-magazine.html)
+19:42:13	Error: 	"Not Found" (404) at link https://rainbowit.net/html/doob/company.html (from https://rainbowit.net/html/doob/index-company.html)
+19:42:14	Error: 	"Not Found" (404) at link https://rainbowit.net/html/doob/personal-portfolio.html (from https://rainbowit.net/html/doob/index-personal-portfolio.html)
+19:42:14	Error: 	"Not Found" (404) at link https://rainbowit.net/html/doob/service-details.html (from https://rainbowit.net/html/doob/index-international-consulting.html)
+19:42:14	Error: 	"Not Found" (404) at link https://rainbowit.net/html/doob/category/application.html (from https://rainbowit.net/html/doob/blog-grid-sidebar.html)
+19:42:14	Error: 	"Not Found" (404) at link https://rainbowit.net/html/doob/category/art.html (from https://rainbowit.net/html/doob/blog-grid-sidebar.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 17 seconds : 334 links scanned, 302 files written (19608057 bytes overall) [15990108 bytes received at 81168 bytes/sec], 4443585 bytes transferred using HTTP compression in 127 files, ratio 13%, 13.9 requests per connection
+(31 errors, 1 warnings, 0 messages)
